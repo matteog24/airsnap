@@ -1,4 +1,4 @@
-# airsigma
+# AirSigma
 
 A new Flutter project.
 
